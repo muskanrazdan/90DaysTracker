@@ -1,4 +1,4 @@
-package main_java.day1;
+package main.java.day1;
 
 public class FrameworkConfig {
     String browser = "chrome";
