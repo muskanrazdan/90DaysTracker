@@ -1,7 +1,7 @@
-package main.java.day1;
+package day1;
 
 public class TestRunner {
-
+/*
     public static void main(String[] args) {
         FrameworkConfig config = new FrameworkConfig();
             config.printConfig();
@@ -12,4 +12,6 @@ public class TestRunner {
         driver.closeBrowser();
 
     }
+
+ */
 }
